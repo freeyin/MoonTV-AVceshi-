@@ -2,12 +2,12 @@
   "cache_time": 7200,
   "api_site": {
     "ytm3u8": {
-      "api": "https://apiyutu.com/api.php/provide/vod/json",
+      "api": "https://apiyutu.com/api.php/provide/vod/at/json",
       "name": "玉兔资源",
       "detail": "https://apiyutu.com"
     },
     "xxbm3u8": {
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod/json",
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/at/json",
       "name": "细胞网资源",
       "detail": "https://www.xxibaozyw.com"
     },
